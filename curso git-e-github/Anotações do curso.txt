@@ -1,0 +1,19 @@
+cd: para navegar entre os arquivos;
+
+ls: mostrar arquivos;
+
+git init : iniciar um repositório;
+
+git add nome do arquivo: marcar o arquivo para ser comitato;
+
+git add . :adiciona arquivos da pasta atual para serem comitados;
+
+git status: para acompanhar o status do arquivo;
+
+git commit -m " " : mensagem de commit;
+
+git config --local user.name " ": configurar nome;
+
+mkdir: para criar um pasta;
+
+git clone: clonar repositorio;
